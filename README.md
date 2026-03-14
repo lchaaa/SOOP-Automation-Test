@@ -26,4 +26,4 @@
     https://docs.google.com/spreadsheets/d/1WPIoh1C1RvmCUc2l651q369Dh9EwkBabVmlzcE_wcp0/edit?usp=sharin
 
 # 📷 Video
-https://github.com/user-attachments/assets/f9dcd5ed-4e2b-46fd-829a-35fab999b32b
+
